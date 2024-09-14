@@ -20,7 +20,6 @@ P7077 is a one-way encrypted private communication network that had it's idea ba
 - Easy-to-add teams and custom configuration
 - Some more security configurations
 This one will soon be made into a physical device as well that you can carry with you at all times.
-[MORE INFORMATION](<https://intel.yokaigroup.gg/projects/p7077/>)
 
 ## VIPER DRONE:
 The VIPER-DRONE is a combination of hardware and software working together to maintain awareness and an overview of perimeters, buildings or other important areas where watch is needed. 
@@ -35,7 +34,6 @@ Some features include:
 - Automatic data encryption and security measures.
 - Custom exclusion models to exclude certain people.
 The program supports either cameras connected to the device it is run on, video files (and soon RTSP).
-[MORE INFORMATION](<https://intel.yokaigroup.gg/projects/intel-drone/>)
 
 ## GenesisNet
 GenesisNet is my own social media platform focused on privacy and ease of access. 
