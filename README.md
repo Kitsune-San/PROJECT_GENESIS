@@ -1,5 +1,5 @@
 # What is PROJECT GENESIS?
-PROJECT HAKAI, is my own intelligence network containing a wide arange of tools, programs, apps and systems that are aimed to be stand-alone, self-reliant and a tiny bit off the grid if you so wish to call it that. 
+PROJECT GENESIS, is my own intelligence network containing a wide arange of tools, programs, apps and systems that are aimed to be stand-alone, self-reliant and a tiny bit off the grid if you so wish to call it that. 
 
 # What does PROJECT GENESIS CONTAIN:
 I don't plan on stopping after these, but here is the current list.
